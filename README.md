@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J. Ctalina</h1>
+<h1 align="center">Hi 👋, I'm J. Catalina</h1>
 <h3 align="center">This project from Google uses a laptop's built-in camera to identify various cereal and marshmallows. The computer then sorts them based on a model you train. A Circuit Playground Express communicates with the computer to decide when to sort which marshmallow/cereal via a micro servo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcat4lina&label=Profile%20views&color=0e75b6&style=flat" alt="kcat4lina" /> </p>
